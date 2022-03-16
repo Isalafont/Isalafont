@@ -14,14 +14,18 @@
 - 👩‍💻 I’m currently learning VueJs, DevOps and Software Architecture
 - 👯 I’m looking to collaborate on Open Source Projects !
 - 🌍 I'm mostly active within the Ruby on Rails Community *[Woman on Rails][1]* and *[Wnb.rb][2]*
+- 💪 Sometimes, I give some talks !
 - 📌 I used to be an assistant camera and camera operator in film and adverstising production
 - 🎉 In my free time, I enjoy hiking, biking, snowboarding and spending time with my family !
 - 🌈 Fun fact: I'm a knitter and crocheter and sometimes, I design Knit accessories ! 🧶
+
+---
 
 ### Technologies and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,vue,html,css,sass,bootstrap,tailwind,postgres,redis,git,docker,vscode,wordpress)](https://skillicons.dev)
 
+---
 
 ### Github Stats
 
@@ -29,7 +33,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=isalafont&show_icons=true&count_private=true&theme=cobalt"/>
 </a>
 <a href="https://github.com/isalafont/isalafont">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isalafont&hide=javascript&layout=compact&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isalafont&hide=javascript&theme=buefy" />
 </a>
 
 <!--
