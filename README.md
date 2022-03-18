@@ -30,10 +30,10 @@
 ### Github Stats
 
 <a href="https://github.com/isalafont/isalafont">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isalafont&show_icons=true&count_private=true&theme=cobalt"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=isalafont&show_icons=true&count_private=true&theme=vue"/>
 </a>
 <a href="https://github.com/isalafont/isalafont">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isalafont&hide=javascript&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isalafont&hide=javascript&theme=vue" />
 </a>
 
 <!--
