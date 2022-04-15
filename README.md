@@ -23,7 +23,7 @@
 
 ### Technologies and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,vue,html,css,sass,tailwind,bootstrap,postgres,redis,git,docker,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,react,vue,html,css,sass,tailwind,bootstrap,postgres,redis,git,docker,vscode&theme=light)](https://skillicons.dev)
 
 ---
 
@@ -33,7 +33,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=isalafont&show_icons=true&count_private=true&theme=vue"/>
 </a>
 <a href="https://github.com/isalafont/isalafont">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isalafont&hide=Javascript&theme=vue" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isalafont&hide=javascript&theme=vue" />
 </a>
 
 <!--
