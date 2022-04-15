@@ -11,7 +11,7 @@
 
 ### A little bit more about me
 
-- 👩‍💻 I’m currently learning VueJs, DevOps and Software Architecture
+- 👩‍💻 I’m currently learning VueJs & React, interested in DevOps and Software Architecture
 - 👯 I’m looking to collaborate on Open Source Projects !
 - 🌍 I'm mostly active within the Ruby on Rails Community *[Woman on Rails][1]* and *[Wnb.rb][2]*
 - 💪 Sometimes, I give some talks !
