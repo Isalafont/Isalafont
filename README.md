@@ -23,7 +23,7 @@
 
 ### Technologies and Tools
 
-[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,react,vue,html,css,sass,tailwind,bootstrap,postgres,redis,git,docker,vscode&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,react,vue,html,css,postgres,redis,git,docker)](https://skillicons.dev)
 
 ---
 
