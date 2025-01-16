@@ -1,15 +1,15 @@
-# Hi there, I'm Isabelle 👋
+### Hi there, I'm Isabelle 👋
 
-#### A ✨ Freelance FullStack web developper Ruby On Rails ✨ from Paris, France !
+##### Freelance FullStack web developper Ruby On Rails from Paris, France.
 
-##### Get in Touch:
+###### Get in Touch:
 
   [<img src="https://user-images.githubusercontent.com/43042737/158415170-f311d94f-c857-4950-a3fe-d8845994f883.png" width="55" height="55">](https://twitter.com/isalafont)
   [<img src="https://user-images.githubusercontent.com/43042737/158415164-817556f7-20fa-45b6-85ee-9c1a903b1220.png" width="50" height="50">](https://www.linkedin.com/in/isabelle-lafont/)
 
 ---
 
-### Technologies and Tools
+#### Technologies and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=ruby,rails,js,react,vue,html,css,postgres,redis,git,docker)](https://skillicons.dev)
 
